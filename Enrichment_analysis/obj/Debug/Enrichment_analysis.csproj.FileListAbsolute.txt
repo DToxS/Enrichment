@@ -1,0 +1,5 @@
+C:\Users\Captain Nora\Documents\Visual Studio 2010\Projects\Enrichment_analysis\Enrichment_analysis\bin\Debug\Enrichment_analysis.pdb
+C:\Users\Captain Nora\Documents\Visual Studio 2010\Projects\Enrichment_analysis\Enrichment_analysis\obj\Debug\Enrichment_analysis.pdb
+C:\Users\Captain Nora\Documents\Visual Studio 2010\Projects\Enrichment_analysis\Enrichment_analysis\bin\Debug\Enrichment_analysis.exe
+C:\Users\Captain Nora\Documents\Visual Studio 2010\Projects\Enrichment_analysis\Enrichment_analysis\obj\Debug\Enrichment_analysis.exe
+C:\Users\Captain Nora\Documents\Visual Studio 2010\Projects\Enrichment_analysis\Enrichment_analysis\obj\Debug\Enrichment_analysis.csprojResolveAssemblyReference.cache
